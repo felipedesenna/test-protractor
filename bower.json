@@ -1,0 +1,17 @@
+{
+  "name": "angular-phonecat",
+  "description": "A tutorial application for AngularJS",
+  "main": "",
+  "authors": [
+    "Felipe de Senna <lipe.senna@hotmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/angular/angular-phonecat",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
